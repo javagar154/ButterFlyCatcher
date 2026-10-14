@@ -1,0 +1,10 @@
+[Ll]ibrary/
+[Tt]emp/
+[Ll]ogs/
+[Uu]serSettings/
+[Bb]uild/
+[Bb]uilds/
+.vscode/
+*.csproj
+*.sln
+*.slnx
